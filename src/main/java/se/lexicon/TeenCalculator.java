@@ -8,7 +8,6 @@ public class TeenCalculator {
             return false;
         }
     }
-
     public static boolean isTeen(int firstNumber) {
         if (firstNumber > 12 && firstNumber < 20) {
             return true;
